@@ -1,0 +1,8 @@
+github.com/gorilla/mux v1.7.4 h1:VuZ8uybHlWmqV03+zRzdwKL4tUnIp1MAQtp1mIFE1bc=
+github.com/gorilla/mux v1.7.4/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/kirigaikabuto/products v1.0.0 h1:GbJJ0ZR7PwQyKeFs37xETcE+ygEvD+1rkckp5XEz//g=
+github.com/kirigaikabuto/products v1.0.0/go.mod h1:QQbitK9ytOtfROcwvT28o9WmSfA5ZC5XIIGhPpe0IOU=
+github.com/kirigaikabuto/products v1.0.1-0.20200818181230-5f28feae8532 h1:sIN2JWZrnNV4EIEvK3UL/Iu6cKJujmZgUa+djesMVOQ=
+github.com/kirigaikabuto/products v1.0.1-0.20200818181230-5f28feae8532/go.mod h1:QQbitK9ytOtfROcwvT28o9WmSfA5ZC5XIIGhPpe0IOU=
+github.com/lib/pq v1.8.0 h1:9xohqzkUwzR4Ga4ivdTcawVS89YSDVxXMa3xJX3cGzg=
+github.com/lib/pq v1.8.0/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
